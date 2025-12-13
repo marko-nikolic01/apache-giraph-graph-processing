@@ -1,0 +1,10 @@
+Belgrade 0 Novi_Sad 100 Nis 200 Subotica 300 Kragujevac 150
+Novi_Sad 99999 Belgrade 100 Nis 100 Subotica 200 Pancevo 120
+Nis 99999 Belgrade 200 Novi_Sad 100 Kragujevac 180 Leskovac 90 Vranje 120
+Subotica 99999 Belgrade 300 Novi_Sad 200 Zrenjanin 80 Sombor 150
+Kragujevac 99999 Belgrade 150 Nis 180 Pancevo 140
+Pancevo 99999 Novi_Sad 120 Kragujevac 140 Zrenjanin 110
+Leskovac 99999 Nis 90 Vranje 70
+Vranje 99999 Leskovac 70 Nis 120
+Zrenjanin 99999 Subotica 80 Pancevo 110 Sombor 130
+Sombor 99999 Subotica 150 Zrenjanin 130

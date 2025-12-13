@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  apache-giraph:
+    build: ./apache-giraph
+    container_name: apache-giraph
+    volumes:
+      - ./apache-giraph/input:/data/input
+      - ./apache-giraph/output:/data/output
+    tty: true

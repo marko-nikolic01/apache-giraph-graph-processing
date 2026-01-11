@@ -1,5 +1,12 @@
 # Apache Giraph - Graph processing
 
+This repository contains Dockerized examples of Apache Giraph applications, including Max Value, Shortest Distance to Capital City, and Movie Recommendation, demonstrating distributed vertex-centric graph processing.
+
+
+<p align="center">
+<img width="205" height="246" alt="images" src="https://github.com/user-attachments/assets/3812a70e-43b2-46e7-b399-97742ddda59c" />
+</p>
+
 ## How to run
 
 ### Run container
